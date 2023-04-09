@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-09T04:08:49 EDT" name="Suite" finished-at="2023-04-09T04:08:49 EDT" duration-ms="34">
+    <groups>
+    </groups>
+    <test started-at="2023-04-09T04:08:49 EDT" name="Test" finished-at="2023-04-09T04:08:49 EDT" duration-ms="34">
+      <class name="testng_parallel.Demo3">
+        <test-method signature="method33()[pri:0, instance:testng_parallel.Demo3@6e9175d8]" started-at="2023-04-09T04:08:49 EDT" name="method33" finished-at="2023-04-09T04:08:49 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method33 -->
+        <test-method signature="method3()[pri:0, instance:testng_parallel.Demo3@6e9175d8]" started-at="2023-04-09T04:08:49 EDT" name="method3" finished-at="2023-04-09T04:08:49 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method3 -->
+        <test-method signature="method333()[pri:0, instance:testng_parallel.Demo3@6e9175d8]" started-at="2023-04-09T04:08:49 EDT" name="method333" finished-at="2023-04-09T04:08:49 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method333 -->
+      </class> <!-- testng_parallel.Demo3 -->
+      <class name="testng_parallel.Demo2">
+        <test-method signature="method2()[pri:0, instance:testng_parallel.Demo2@4b741d6d]" started-at="2023-04-09T04:08:49 EDT" name="method2" finished-at="2023-04-09T04:08:49 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method2 -->
+        <test-method signature="method22()[pri:0, instance:testng_parallel.Demo2@4b741d6d]" started-at="2023-04-09T04:08:49 EDT" name="method22" finished-at="2023-04-09T04:08:49 EDT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method22 -->
+        <test-method signature="method222()[pri:0, instance:testng_parallel.Demo2@4b741d6d]" started-at="2023-04-09T04:08:49 EDT" name="method222" finished-at="2023-04-09T04:08:49 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method222 -->
+      </class> <!-- testng_parallel.Demo2 -->
+      <class name="testng_parallel.Demo1">
+        <test-method signature="method111()[pri:0, instance:testng_parallel.Demo1@71ba6d4e]" started-at="2023-04-09T04:08:49 EDT" name="method111" finished-at="2023-04-09T04:08:49 EDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method111 -->
+        <test-method signature="method1()[pri:0, instance:testng_parallel.Demo1@71ba6d4e]" started-at="2023-04-09T04:08:49 EDT" name="method1" finished-at="2023-04-09T04:08:49 EDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method signature="method11()[pri:0, instance:testng_parallel.Demo1@71ba6d4e]" started-at="2023-04-09T04:08:49 EDT" name="method11" finished-at="2023-04-09T04:08:49 EDT" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method11 -->
+      </class> <!-- testng_parallel.Demo1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
